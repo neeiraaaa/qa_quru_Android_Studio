@@ -11,6 +11,7 @@
   <code><img width="5%" title="GitHub" src="./tests/resources/logo/github.png"></code>
   <code><img width="5%" title="Browserstack" src="./tests/resources/logo/browserstack.png"></code>
   <code><img width="5%" title="Appium" src="./tests/resources/logo/appium.png"></code>
+  <code><img width="5%" title="Selenium" src="./tests/resources/logo/selenium.png"></code>
 
 </p>
 
@@ -35,5 +36,5 @@ env -S "context=emulation" pytest .
 ![This is an image](tests/resources/screenshots/browserstack.png)
 
 <!-- Android Studio -->
-### Запуск проекта в Android Studio
+### <img width="3%" title="Android Studio" src="tests/resources/logo/android-studio-icon.png"> Запуск проекта в Android Studio
 ![This is an image](tests/resources/video/video.gif)
