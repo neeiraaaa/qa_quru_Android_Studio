@@ -4,14 +4,14 @@
 
 ### Используемые технологии
 <p  align="center">
-  <code><img width="5%" title="Pycharm" src="./tests/resources/logo/pycharm.png"></code>
-  <code><img width="5%" title="Python" src="./tests/resources/logo/python.png"></code>
-  <code><img width="5%" title="Pytest" src="./tests/resources/logo/pytest.png"></code>
-  <code><img width="5%" title="Selene" src="./tests/resources/logo/selene.png"></code>
-  <code><img width="5%" title="GitHub" src="./tests/resources/logo/github.png"></code>
-  <code><img width="5%" title="Browserstack" src="./tests/resources/logo/browserstack.png"></code>
-  <code><img width="5%" title="Appium" src="./tests/resources/logo/appium.png"></code>
-  <code><img width="5%" title="Selenium" src="./tests/resources/logo/selenium.png"></code>
+  <code><img width="5%" title="Pycharm" src="./tests/attachments/logo/pycharm.png"></code>
+  <code><img width="5%" title="Python" src="./tests/attachments/logo/python.png"></code>
+  <code><img width="5%" title="Pytest" src="./tests/attachments/logo/pytest.png"></code>
+  <code><img width="5%" title="Selene" src="./tests/attachments/logo/selene.png"></code>
+  <code><img width="5%" title="GitHub" src="./tests/attachments/logo/github.png"></code>
+  <code><img width="5%" title="Browserstack" src="./tests/attachments/logo/browserstack.png"></code>
+  <code><img width="5%" title="Appium" src="./tests/attachments/logo/appium.png"></code>
+  <code><img width="5%" title="Selenium" src="./tests/attachments/logo/selenium.png"></code>
 
 </p>
 
@@ -30,11 +30,11 @@ env -S "context=emulation" pytest .
 
 <!-- Browserstack -->
 
-### <img width="3%" title="Browserstack" src="tests/resources/logo/browserstack.png"> Запуск проекта в [Browserstack](https://app-automate.browserstack.com/dashboard/v2/builds/f28c349abaad3f7d39dfcd35456f87613336db26/sessions/5120171442d8f8caa501ddce865892e431122b91)
+### <img width="3%" title="Browserstack" src="tests/attachments/logo/browserstack.png"> Запуск проекта в [Browserstack](https://app-automate.browserstack.com/dashboard/v2/builds/f28c349abaad3f7d39dfcd35456f87613336db26/sessions/5120171442d8f8caa501ddce865892e431122b91)
 ##### Где в реальном времени можно следить за прохождением теста через логи.
 
-![This is an image](tests/resources/screenshots/browserstack.png)
+![This is an image](tests/attachments/screenshots/browserstack.png)
 
 <!-- Android Studio -->
-### <img width="3%" title="Android Studio" src="tests/resources/logo/android-studio-icon.png"> Запуск проекта в Android Studio
-![This is an image](tests/resources/video/video.gif)
+### <img width="3%" title="Android Studio" src="tests/attachments/logo/android-studio-icon.png"> Запуск проекта в Android Studio
+![This is an image](tests/attachments/video/video.gif)
